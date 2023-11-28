@@ -49,10 +49,10 @@ void display()
 int main() 
 {
     int ch;
-    cout<<"\n1 - To insert new element\n";
-    cout<<"\n2 - To delete existing element\n";
-    cout<<"\n3 - To display all the elements\n";
-    cout<<"\n4- To exit\n";
+    cout<<"\n1 - To insert new element";
+    cout<<"\n2 - To delete existing element";
+    cout<<"\n3 - To display all the elements";
+    cout<<"\n4- To exit";
     do{
     cout<<"\nEnter your choice:";
     cin>>ch;
